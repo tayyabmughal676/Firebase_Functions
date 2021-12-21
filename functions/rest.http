@@ -1,0 +1,16 @@
+
+GET http://localhost:5001/quicktowapp/us-central1/api
+
+### POST
+POST http://localhost:5001/quicktowapp/us-central1/api
+Content-Type: application/json
+
+{
+    "name":"Func"
+}
+
+### Delete
+DELETE http://localhost:5001/quicktowapp/us-central1/api
+
+###
+PUT http://localhost:5001/quicktowapp/us-central1/api
